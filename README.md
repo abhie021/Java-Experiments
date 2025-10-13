@@ -19,6 +19,9 @@ This section lists all the official lab experiment problem statements and report
     * [Part A (PDF)](./EXPT%205a.pdf)
     * [Part B (PDF)](./EXPT%205b.pdf)
 * **Experiment 6:** [Problem Statement (PDF)](./EXPT%206.pdf)
+* **Experiment 7:** [Problem Statement (PDF)](./EXPT%207.pdf)
+* **Experiment 8:** [Problem Statement (PDF)](./EXPT%208.pdf)
+* **Experiment 9:** [Problem Statement (PDF)](./EXPT%209.pdf)
 
 ---
 
